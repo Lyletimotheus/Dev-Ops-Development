@@ -2,6 +2,7 @@
 
 ## General Remarks
 <p>Bash is a dialect of the borne shell syntax</p>
+<p>Spacing plays a role, especially when it comes to naming variables, if conditionals for example</p>
 
 ## Useful commands
 - touch <fileName> 
