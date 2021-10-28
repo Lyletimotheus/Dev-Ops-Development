@@ -110,3 +110,29 @@ NUM2=54
 # done
 
 # WHILE LOOP - READING THROUGH A FILE LINE BY LINE
+# LINE=1
+# while read -r CURRENT_LINE
+#     do
+#         echo "$LINE: $CURRENT_LINE"
+#         ((LINE++))
+# done < "./new-1.txt"
+
+# FUNCTION
+# function sayHello() {
+#     echo "Hello World"
+# }
+
+# sayHello
+
+#FUNCTIONS WITH PARAMS (We use positional parameters)
+# function greet() {
+#     echo "Hello, I am $1 and I am $2";
+# }
+
+# greet "Lyle" "44"
+
+# CREATE FOLDER AND WRITE TO A FILE
+mkdir hello 
+touch "hello/world.txt"
+echo "Hello World" >> "hello/world.txt"
+echo "Created hello/world.txt"

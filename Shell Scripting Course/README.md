@@ -3,6 +3,7 @@
 ## General Remarks
 <p>Bash is a dialect of the borne shell syntax</p>
 <p>Spacing plays a role, especially when it comes to naming variables, if conditionals for example</p>
+<p>Look at the myscript.sh for all the syntax and examples for understanding Shell Scripting commands better.</p>
 
 ## Useful commands
 - touch <fileName> 
